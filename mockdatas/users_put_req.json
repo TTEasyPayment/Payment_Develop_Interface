@@ -1,0 +1,10 @@
+{
+    "req_url": "/users/:id",
+    "req_url_example": "/users/1000",
+    "parameters": {
+        "id": 1000,
+        "first_name": "Alex",
+        "last_name": "Cinne",
+        "email": "alex1@gmail.com"
+    }
+}

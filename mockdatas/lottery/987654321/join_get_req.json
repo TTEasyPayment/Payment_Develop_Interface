@@ -1,0 +1,6 @@
+{
+    "req_url":"/users",
+    "mandatory_parameters":[],
+    "optional_parameters":["phone","email"],
+    "descriptions":"The userid can be found by token. If the parameters is blank, the return value should be only the friends of current user."
+}

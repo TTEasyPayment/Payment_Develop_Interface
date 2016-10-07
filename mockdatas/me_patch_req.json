@@ -1,0 +1,6 @@
+{
+    "req_url": "/me",
+    "parameters": {
+        "email": "alex123@gmail.com"
+    }
+}

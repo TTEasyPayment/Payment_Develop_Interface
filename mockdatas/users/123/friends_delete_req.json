@@ -1,0 +1,6 @@
+{
+    "req_url": "/users/:id/friends",
+    "parameters": {
+        "friend_id": 1234
+    }
+}

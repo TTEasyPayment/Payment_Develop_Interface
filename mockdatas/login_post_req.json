@@ -1,0 +1,7 @@
+{
+    "req_url": "/login",
+    "parameters": {
+        "username": "name1",
+        "password": "pass1234"
+    }
+}
