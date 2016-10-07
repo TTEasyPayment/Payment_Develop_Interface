@@ -1,0 +1,28 @@
+{
+    "success":true,
+    "info":"",
+    "count":3,
+    "result":[
+        {
+            "id":1000,
+            "first_name":"Alex",
+            "last_name":"Cinne",
+            "email":"alex@gmail.com",
+            "phone":"16512291234"
+        },
+        {
+            "id":1001,
+            "first_name":"Roger",
+            "last_name":"Mont",
+            "email":"roger@gmail.com",
+            "phone":"16502291234"
+        },
+        {
+            "id":1002,
+            "first_name":"Peter",
+            "last_name":"Walnet",
+            "email":"peter@gmail.com",
+            "phone":"13332291234"
+        }
+    ]
+}

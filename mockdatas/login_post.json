@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "user": {
+    "id": 12345,
+    "first_name": "abcd",
+    "last_name": "abcd",
+    "token": "84941063b4ed99b192a0d2963b6cf361936b51d6"
+  }
+}

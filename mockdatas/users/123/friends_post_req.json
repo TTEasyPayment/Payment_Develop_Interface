@@ -1,0 +1,7 @@
+{
+    "req_url": "/users/:id/friends",
+    "comments": "The userid can be found in the path",
+    "parameters": {
+        "friend_id": 1234
+    }
+}

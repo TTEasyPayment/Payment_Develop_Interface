@@ -1,0 +1,4 @@
+{
+    "req_url":"/users/:id/friends",
+    "descriptions":"Get all friends of user."
+}

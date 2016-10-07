@@ -1,0 +1,9 @@
+{
+    "req_url": "/users",
+    "comments": "This interface should be called without token",
+    "parameters": {
+        "first_name": "Alex",
+        "last_name": "Cinne",
+        "email": "alex@gmail.com"
+    }
+}

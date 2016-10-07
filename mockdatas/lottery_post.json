@@ -1,0 +1,14 @@
+{
+    "success": true,
+    "info": "",
+    "count": 1,
+    "result": [
+        {
+            "id": 1000,
+            "first_name": "Alex",
+            "last_name": "Cinne",
+            "email": "alex@gmail.com",
+            "phone": "16512291234"
+        }
+    ]
+}
