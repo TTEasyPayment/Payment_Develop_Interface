@@ -34,3 +34,38 @@ Suppose the request url is: /aaaa
     aaaa_post_req.json : The request parameters and url of HTTP POST request "/aaaa".
     aaaa_post.json : The response of HTTP POST request "/aaaa".
 
+
+
+# Examples
+
+    users_post_req.json:
+    
+        {
+            "req_url": "/users",
+            "comments": "This interface should be called without token",
+            "parameters": {
+                "first_name": "Alex",
+                "last_name": "Cinne",
+                "email": "alex@gmail.com"
+            }
+        }
+
+    users_post.json:
+
+        {
+            "success": true,
+            "info": "",
+            "count": 1,
+            "result": [
+                {
+                    "id": 1000,
+                    "first_name": "Alex",
+                    "last_name": "Cinne",
+                    "email": "alex@gmail.com",
+                    "phone": "16512291234"
+                }
+            ]
+        }
+
+
+
