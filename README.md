@@ -3,8 +3,15 @@ This project provide a development tool for front end development.
 
 # Setup
 
-Make sure that you have installed `node` and `npm`. We use node v6.5 in production for now. 
+Make sure that you have installed `nodejs` and `nvm`. We use node v6.5 in production for now.
 
+    install nodejs :
+      https://nodejs.org/en/
+    install nvm (node version manager):
+      https://github.com/creationix/nvm
+      curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.32.0/install.sh | bash
+
+  Then:
     nvm install v6.5
 
 Download the source code after you have your `node` and `npm` installed.
@@ -39,7 +46,7 @@ Suppose the request url is: /aaaa
 # Examples
 
     users_post_req.json:
-    
+
         {
             "req_url": "/users",
             "comments": "This interface should be called without token",
@@ -66,6 +73,3 @@ Suppose the request url is: /aaaa
                 }
             ]
         }
-
-
-
