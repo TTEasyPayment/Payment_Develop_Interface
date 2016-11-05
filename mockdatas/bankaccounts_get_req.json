@@ -1,0 +1,6 @@
+{
+    "req_url":"/bankaccounts",
+    "mandatory_parameters":[],
+    "optional_parameters":["user_id"],
+    "descriptions":""
+}

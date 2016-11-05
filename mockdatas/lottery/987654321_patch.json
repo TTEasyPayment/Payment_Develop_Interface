@@ -1,7 +1,7 @@
 {
     "success": true,
     "info": "",
-    "count": 3,
+    "count": 1,
     "result": [
         {
             "id": 1000,
@@ -9,13 +9,8 @@
             "bet_amount": 100.00,
             "total_amount": 80,
             "end_datetime": "2016-12-23T18:25:43.511Z",
-            "winner_id": 155,
-            "status": "ongoing",
-            "winner": {
-                "id": 1000,
-                "first_name": "Alex",
-                "last_name": "Cinne"
-            }
+            "winner_id": 0,
+            "status": "ongoing"
         }
     ]
 }

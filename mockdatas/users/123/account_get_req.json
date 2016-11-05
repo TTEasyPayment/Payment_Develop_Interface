@@ -1,0 +1,4 @@
+{
+    "req_url":"/users/:id/account",
+    "descriptions":"Get user account info."
+}

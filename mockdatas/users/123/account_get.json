@@ -1,0 +1,13 @@
+{
+    "success":true,
+    "info":"",
+    "count":1,
+    "result":[
+        {
+            "id":1000,
+            "balance":"1000.00",
+            "user_id":"123",
+            "acct_no":"987687535467789"
+        }
+    ]
+}

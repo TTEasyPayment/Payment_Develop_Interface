@@ -1,0 +1,6 @@
+{
+    "req_url":"/accounts",
+    "mandatory_parameters":[],
+    "optional_parameters":["user_id"],
+    "descriptions":""
+}

@@ -1,6 +1,5 @@
 {
-    "req_url": "/lottery",
-    "comments": "",
+    "req_url": "/lottery/:id",
     "parameters": {
         "bet_amount": 100.00,
         "end_datetime": "2016-12-23T18:25:43.511Z"

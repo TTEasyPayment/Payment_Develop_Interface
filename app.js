@@ -26,6 +26,10 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', mock);
 app.use('/users',mock);
 app.use('/users/:id',mock);
+app.use('/bankaccounts/',mock);
+app.use('/bankaccounts/:id',mock);
+app.use('/lottery/',mock);
+app.use('/lottery/:id',mock);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

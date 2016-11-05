@@ -1,0 +1,31 @@
+{
+    "success": true,
+    "info": "",
+    "count": 3,
+    "result": [
+        {
+            "id": 1000,
+            "user_id": "123",
+            "acct_no": "187687535467789",
+            "bank_name": "Bank of American",
+            "swift_code": "123456",
+            "country": "US"
+        },
+        {
+            "id": 1001,
+            "user_id": "123",
+            "acct_no": "287687535467789",
+            "bank_name": "Bank of American",
+            "swift_code": "123456",
+            "country": "US"
+        },
+        {
+            "id": 1003,
+            "user_id": "123",
+            "acct_no": "387687535467789",
+            "bank_name": "Bank of American",
+            "swift_code": "123456",
+            "country": "US"
+        }
+    ]
+}
